@@ -1,0 +1,2869 @@
+
+<!doctype html><html amp i-amphtml-layout lang=en-US transformed="google;v=8"><head class=amp-project><meta charset=utf-8><style amp-runtime i-amphtml-version=012110082201001>html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
+/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
+/*# sourceURL=/css/ampshared.css*/</style><meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name=viewport><meta content=100006394927810 property=fb:admins><meta content=537896802938133 property=fb:app_id><meta content=googleanalytics name=amp-google-client-id-api><meta content=summary_large_image name=twitter:card><meta content="Camp Fire Visual Essay: A ballet rises from the ashes in fire scarred Paradise" name=twitter:title><meta content=@sfchronicle name=twitter:site><meta content=https://projects.sfchronicle.com/2019/visuals/camp-fire-ballet/ name=twitter:url><meta content=https://s.hdnux.com/photos/0/0/0/16846183/0/1200x0.jpg name=twitter:image><meta content="The annual production of  “The Nutcracker” at the Paradise Performing Arts Center was one of many things destroyed by the Camp Fire. They had already been practicing for months when the blaze hit Butte County in November." name=twitter:description><meta content=article property=og:type><meta content="Camp Fire Visual Essay: A ballet rises from the ashes in fire scarred Paradise" property=og:title><meta content="The San Francisco Chronicle" property=og:site_name><meta content=https://projects.sfchronicle.com/2019/visuals/camp-fire-ballet/ property=og:url><meta content=https://s.hdnux.com/photos/0/0/0/16846183/0/1200x0.jpg property=og:image><meta content="The annual production of  “The Nutcracker” at the Paradise Performing Arts Center was one of many things destroyed by the Camp Fire. They had already been practicing for months when the blaze hit Butte County in November." property=og:description><meta content=noindex name=robots><meta content=no-referrer-when-downgrade name=referrer><meta content=sfchronicle.com name=amp-cookie-scope><script id=__AMP_EXP type=text/json>{"flexible-bitrate":0.1,"amp-story-desktop-one-panel":1,"amp-story-first-page-max-bitrate":0.3,"story-disable-animations-first-page":0,"story-load-first-page-only":1,"story-load-inactive-outside-viewport":1,"story-ad-page-outlink":0.02}</script><script async src=https://cdn.ampproject.org/rtv/012110082201001/v0.js></script><script amp-onerror>[].slice.call(document.querySelectorAll("script[src*='/v0.js'],script[src*='/v0.mjs']")).forEach(function(s){s.onerror=function(){document.querySelector('style[amp-boilerplate]').textContent=''}})</script><script async custom-element=amp-story src=https://cdn.ampproject.org/rtv/012110082201001/v0/amp-story-1.0.js></script><script async custom-element=amp-analytics src=https://cdn.ampproject.org/rtv/012110082201001/v0/amp-analytics-0.1.js></script><script async custom-element=amp-consent src=https://cdn.ampproject.org/rtv/012110082201001/v0/amp-consent-0.1.js></script><script async custom-element=amp-geo src=https://cdn.ampproject.org/rtv/012110082201001/v0/amp-geo-0.1.js></script><script async custom-element=amp-story-auto-ads src=https://cdn.ampproject.org/rtv/012110082201001/v0/amp-story-auto-ads-0.1.js></script><script async custom-element=amp-video src=https://cdn.ampproject.org/rtv/012110082201001/v0/amp-video-0.1.js></script><link href=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/favicon.ico rel="shortcut icon" type=image/x-icon><link crossorigin href=https://fonts.gstatic.com/ rel="dns-prefetch preconnect"><link href=https://files-sfchronicle-com.cdn.ampproject.org rel="dns-prefetch preconnect"><link href=https://s-hdnux-com.cdn.ampproject.org rel="dns-prefetch preconnect"><link href=https://www-sfchronicle-com.cdn.ampproject.org rel="dns-prefetch preconnect"><link href="https://fonts.googleapis.com/css?family=Lora&amp;display=optional" rel=stylesheet><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&amp;display=optional" rel=stylesheet><link crossorigin=anonymous href=https://use.fontawesome.com/releases/v5.3.1/css/fontawesome.css integrity=sha384-1rquJLNOM3ijoueaaeS5m+McXPJCGdr5HcA03/VHXxcp2kX2sUrQDmFc3jR5i/C7 rel=stylesheet><style amp-custom>
+      @font-face {
+  font-family: 'National Bold';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local('National Bold'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/national/NationalWeb-Bold.woff2') format('woff2'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/national/NationalWeb-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'National Medium';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local('National Medium'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/national/NationalWeb-Medium.woff2') format('woff2'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/national/NationalWeb-Medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'National Light';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local('National Light'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/national/NationalWeb-Light.woff2') format('woff2'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/national/NationalWeb-Light.woff') format('woff');
+}
+@font-face {
+  font-family: 'National Book';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local('National Book'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/national/NationalWeb-Book.woff2') format('woff2'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/national/NationalWeb-Book.woff') format('woff');
+}
+@font-face {
+  font-family: 'Tiempos Regular';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tiempos Regular'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/tiempos/TiemposTextWeb-Regular.woff2') format('woff2'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/tiempos/TiemposTextWeb-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Tiempos Bold';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tiempos Bold'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/tiempos/TiemposTextWeb-Bold.woff2') format('woff2'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/tiempos/TiemposTextWeb-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'Tiempos Headline Light';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tiempos Headline Light'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/tiempos/TiemposHeadlineWeb-Light.woff2') format('woff2'), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/tiempos/TiemposHeadlineWeb-Light.woff') format('woff');
+}
+@font-face {
+  font-family: 'Tiempos Headline Black';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local("Tiempos Headline Black"), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/tiempos/TiemposHeadlineWeb-Black.woff2') format("woff2"), url('https://www-sfchronicle-com.cdn.ampproject.org/r/s/www.sfchronicle.com/css/core/fonts/tiempos/TiemposHeadlineWeb-Black.woff') format("woff");
+}
+/* https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939 */
+/* https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html */
+html {
+  font-size: 100%;
+}
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+*::after:focus:not(:focus-visible),
+*::before:focus:not(:focus-visible),
+*:focus:not(:focus-visible) {
+  outline: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::after,
+  *::before {
+    transition: none;
+    animation: none;
+    scroll-behavior: auto;
+  }
+}
+/* Remove default padding */
+ul[class],
+ol[class] {
+  padding: 0;
+}
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+/* Set core body defaults */
+body {
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+  font-variant-ligatures: normal;
+  font-variant-numeric: oldstyle-nums;
+  line-height: 1.3;
+}
+h1,
+h2,
+h3,
+h4,
+ul[class],
+ol[class],
+li,
+figure,
+span,
+figcaption,
+blockquote,
+dl,
+dd {
+  font-variant-numeric: lining-nums;
+}
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+.fade1 {
+  animation: animfade1 8s infinite;
+}
+.fade2 {
+  animation: animfade2 8s infinite;
+  opacity: 0;
+}
+.fade3 {
+  animation: animfade3 8s infinite;
+  opacity: 0;
+}
+.fade4 {
+  animation: animfade4 8s infinite;
+  opacity: 0;
+}
+@keyframes animfade1 {
+  0% {
+    opacity: 1;
+  }
+  25% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  75% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes animfade2 {
+  0% {
+    opacity: 0;
+  }
+  25% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  75% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes animfade3 {
+  0% {
+    opacity: 0;
+  }
+  25% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  75% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes animfade4 {
+  0% {
+    opacity: 0;
+  }
+  25% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  75% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+amp-story-grid-layer {
+  padding: 0;
+}
+amp-story {
+  color: #FCFCFC;
+}
+amp-story-page {
+  background-color: #222222;
+}
+p,
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 400;
+  justify-self: center;
+  width: 100%;
+  max-width: 700px;
+  padding: 0 calc(1.3531666666666666rem + 0.453933333333333vw);
+}
+@media (min-width: 4000px) {
+  p,
+  h1,
+  h2,
+  h3,
+  h4 {
+    padding: 0 2.488rem;
+  }
+}
+@media (max-width: 768px) {
+  p:not(.lower-third, .credit),
+  h1:not(.lower-third, .credit),
+  h2:not(.lower-third, .credit),
+  h3:not(.lower-third, .credit),
+  h4:not(.lower-third, .credit) {
+    padding-left: calc(1.3531666666666666rem + 0.453933333333333vw);
+    padding-right: calc(1.3531666666666666rem + 0.453933333333333vw);
+  }
+  p:last-child:not(.credit, .lower-third),
+  h1:last-child:not(.credit, .lower-third),
+  h2:last-child:not(.credit, .lower-third),
+  h3:last-child:not(.credit, .lower-third),
+  h4:last-child:not(.credit, .lower-third) {
+    padding-bottom: calc(1.3531666666666666rem + 0.453933333333333vw);
+  }
+  p:first-child,
+  h1:first-child,
+  h2:first-child,
+  h3:first-child,
+  h4:first-child {
+    padding-top: calc(1.3531666666666666rem + 0.453933333333333vw);
+  }
+}
+@media (max-width: 768px) and (min-width: 4000px) {
+  p:not(.lower-third, .credit),
+  h1:not(.lower-third, .credit),
+  h2:not(.lower-third, .credit),
+  h3:not(.lower-third, .credit),
+  h4:not(.lower-third, .credit) {
+    padding-left: 2.488rem;
+  }
+}
+@media (max-width: 768px) and (min-width: 4000px) {
+  p:not(.lower-third, .credit),
+  h1:not(.lower-third, .credit),
+  h2:not(.lower-third, .credit),
+  h3:not(.lower-third, .credit),
+  h4:not(.lower-third, .credit) {
+    padding-right: 2.488rem;
+  }
+}
+@media (max-width: 768px) and (min-width: 4000px) {
+  p:last-child:not(.credit, .lower-third),
+  h1:last-child:not(.credit, .lower-third),
+  h2:last-child:not(.credit, .lower-third),
+  h3:last-child:not(.credit, .lower-third),
+  h4:last-child:not(.credit, .lower-third) {
+    padding-bottom: 2.488rem;
+  }
+}
+@media (max-width: 768px) and (min-width: 4000px) {
+  p:first-child,
+  h1:first-child,
+  h2:first-child,
+  h3:first-child,
+  h4:first-child {
+    padding-top: 2.488rem;
+  }
+}
+h2,
+h3,
+h4 {
+  line-height: 1.2;
+  font-family: "Tiempos Headline Light", Georgia, serif;
+  text-rendering: geometricPrecision;
+}
+p {
+  font-size: 1.2rem;
+}
+h1 {
+  font-family: "Tiempos Headline Black", Georgia, serif;
+  font-size: calc(1.7650000000000001rem + 2.266vw);
+  line-height: 1;
+  text-rendering: geometricPrecision;
+}
+@media (min-width: 4000px) {
+  h1 {
+    font-size: 7.43rem;
+  }
+}
+@media (min-width: 1200px) {
+  h1 {
+    max-width: 950px;
+  }
+}
+@media (min-width: 2000px) {
+  h1 {
+    max-width: 1400px;
+  }
+}
+h2 {
+  font-size: calc(1.3946666666666667rem + 0.636533333333333vw);
+}
+@media (min-width: 4000px) {
+  h2 {
+    font-size: 2.986rem;
+  }
+}
+h3 {
+  font-size: calc(1.3531666666666666rem + 0.453933333333333vw);
+}
+@media (min-width: 4000px) {
+  h3 {
+    font-size: 2.488rem;
+  }
+}
+h4 {
+  font-size: calc(1.3186666666666667rem + 0.302133333333333vw);
+}
+@media (min-width: 4000px) {
+  h4 {
+    font-size: 2.074rem;
+  }
+}
+.lower-third {
+  max-width: 100%;
+  margin-bottom: 0;
+  font-family: "National Book", Helvetica, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-shadow: 1px 1px 0px #000;
+  padding-left: 1.2rem;
+}
+.lower-third:last-child {
+  padding-bottom: calc(1.2658333333333334rem + 0.069666666666667vw);
+}
+@media (min-width: 4000px) {
+  .lower-third:last-child {
+    padding-bottom: 1.44rem;
+  }
+}
+@media (min-width: 480px) {
+  .lower-third {
+    padding-left: calc(1.3186666666666667rem + 0.302133333333333vw);
+  }
+}
+@media (min-width: 480px) and (min-width: 4000px) {
+  .lower-third {
+    padding-left: 2.074rem;
+  }
+}
+@media (min-width: 1200px) {
+  .lower-third:last-child {
+    padding-bottom: calc(1.3531666666666666rem + 0.453933333333333vw);
+  }
+}
+@media (min-width: 1200px) and (min-width: 4000px) {
+  .lower-third:last-child {
+    padding-bottom: 2.488rem;
+  }
+}
+.story-meta {
+  font-family: "National Light", Helvetica, sans-serif;
+  font-size: 0.833rem;
+}
+.containwithroom p {
+  font-size: 0.833rem;
+  text-shadow: 0px 0px 8px #222222;
+}
+.kicker {
+  font-family: "National Medium", Helvetica, sans-serif;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.story-dateline {
+  font-family: "National Light", Helvetica, sans-serif;
+  text-transform: uppercase;
+  font-variant-numeric: lining-nums;
+  font-size: 0.833rem;
+}
+.text-slide {
+  align-content: center;
+  font-family: "Tiempos Regular", Georgia, serif;
+  line-height: 1.5;
+}
+.credit {
+  margin-bottom: 4px;
+}
+#subscriber-headline {
+  font-family: "Tiempos Headline Black", Georgia, serif;
+  font-size: calc(1.5758333333333334rem + 1.433666666666667vw);
+  padding-bottom: 0;
+  line-height: 1;
+  text-align: center;
+}
+@media (min-width: 4000px) {
+  #subscriber-headline {
+    font-size: 5.16rem;
+  }
+}
+#subscriber-blurb {
+  font-size: calc(1.3531666666666666rem + 0.453933333333333vw);
+  padding-top: 0;
+  text-align: center;
+}
+@media (min-width: 4000px) {
+  #subscriber-blurb {
+    font-size: 2.488rem;
+  }
+}
+#button-link {
+  display: flex;
+  width: 100%;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  cursor: default;
+}
+#subscribe-button {
+  color: #FCFCFC;
+  background-color: #000000;
+  border: 1px solid #FCFCFC;
+  font-family: "National Bold", Helvetica, sans-serif;
+  font-size: 1rem;
+  line-height: unset;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  align-items: center;
+  border-radius: 2px;
+  justify-content: center;
+  margin: auto;
+  cursor: pointer;
+  padding: 12px 24px;
+  height: auto;
+  width: auto;
+}
+#subscribe-button:hover {
+  color: #fff;
+  background-color: #26A0A5;
+  border: 1px solid #26A0A5;
+}
+amp-story-grid-layer[template="vertical"].rotate-prompt {
+  -ms-flex-line-pack: end;
+  align-content: end;
+}
+amp-story-grid-layer[template="vertical"].rotate-prompt p {
+  font-family: "National Medium", Helvetica, sans-serif;
+  font-weight: 800;
+  text-align: center;
+  display: none;
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+@media (orientation: portrait) {
+  amp-story-grid-layer[template="vertical"].rotate-prompt p {
+    display: block;
+  }
+}
+amp-story-grid-layer {
+  font-family: "National Bold", Helvetica, sans-serif;
+  font-size: 16px;
+}
+amp-story-grid-layer .end-block {
+  padding: 0 28%;
+}
+amp-story-grid-layer .end-block .credits-block {
+  font-family: "National Medium", Helvetica, sans-serif;
+  margin-bottom: 15px;
+}
+amp-story-grid-layer .end-block .credits-block p {
+  padding: 0;
+  font-size: 14px;
+}
+amp-story-grid-layer .related-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+@media (max-width: 480px) {
+  amp-story-grid-layer .related-item.related {
+    display: block;
+  }
+}
+amp-story-grid-layer .related-item img {
+  border-radius: 5px;
+  max-height: 100px;
+}
+amp-story-grid-layer .related-item .img-box {
+  margin-right: 10px;
+}
+amp-story-grid-layer a,
+amp-story-grid-layer a span {
+  text-decoration: none;
+  color: white;
+}
+amp-story-grid-layer .subscribe-button {
+  border: 1px solid #FCFCFC;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+.newsletter-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: #444444;
+  border-top-left-radius: 0.335rem;
+  border-top-right-radius: 0.335rem;
+}
+.newsletter-signup-box a {
+  text-decoration-color: #26A0A5;
+}
+.newsletter-signup-box a :hover {
+  color: #26A0A5;
+}
+.newsletter-signup-box p {
+  color: #FCFCFC;
+  font-family: "National Book", Helvetica, sans-serif;
+  width: 100%;
+  padding: 0 0.694rem;
+  margin: 0.694rem auto;
+  max-width: 50ch;
+  font-size: 1rem;
+}
+@media (min-width: 480px) {
+  .newsletter-signup-box p {
+    font-size: calc(1.2658333333333334rem + 0.069666666666667vw);
+  }
+}
+@media (min-width: 480px) and (min-width: 4000px) {
+  .newsletter-signup-box p {
+    font-size: 1.44rem;
+  }
+}
+/* Vertical rule set */
+amp-story-grid-layer[template="vertical"] {
+  align-content: center;
+  justify-items: center;
+}
+amp-story-grid-layer[template="vertical"].dark-lower div {
+  height: 250px;
+  position: absolute;
+  bottom: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 57%, rgba(0, 0, 0, 0.65) 99%);
+}
+amp-story-grid-layer[template="vertical"].lowerthirdbox {
+  grid-gap: initial;
+}
+amp-story-grid-layer[template="vertical"].backgroundbox p,
+amp-story-grid-layer[template="vertical"].backgroundbox h1,
+amp-story-grid-layer[template="vertical"].backgroundbox h2,
+amp-story-grid-layer[template="vertical"].backgroundbox h3,
+amp-story-grid-layer[template="vertical"].backgroundbox h4 {
+  padding: 0.335rem 0.694rem;
+  background: rgba(0, 0, 0, 0.8);
+}
+amp-story-grid-layer[template="vertical"].textshadow h1 {
+  text-shadow: 0 0 8px #111111;
+}
+amp-story-grid-layer[template="vertical"].textshadow h2,
+amp-story-grid-layer[template="vertical"].textshadow h3 {
+  text-shadow: 0 0 6px #111111;
+}
+amp-story-grid-layer[template="vertical"].textshadow h4,
+amp-story-grid-layer[template="vertical"].textshadow p {
+  text-shadow: 0 0 4px #111111;
+}
+amp-story-grid-layer[template="vertical"].split-screen {
+  padding-left: 0;
+  padding-right: 0;
+  margin-right: 0;
+}
+@media (min-width: 768px) {
+  amp-story-grid-layer[template="vertical"].split-screen {
+    padding-left: 50%;
+    margin-right: calc(1.5758333333333334rem + 1.433666666666667vw);
+  }
+}
+@media (min-width: 768px) and (min-width: 4000px) {
+  amp-story-grid-layer[template="vertical"].split-screen {
+    margin-right: 5.16rem;
+  }
+}
+amp-story-grid-layer[template="vertical"].reverse-split-screen {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0;
+}
+@media (min-width: 768px) {
+  amp-story-grid-layer[template="vertical"].reverse-split-screen {
+    padding-right: 50%;
+    margin-left: calc(1.5758333333333334rem + 1.433666666666667vw);
+  }
+}
+@media (min-width: 768px) and (min-width: 4000px) {
+  amp-story-grid-layer[template="vertical"].reverse-split-screen {
+    margin-left: 5.16rem;
+  }
+}
+amp-story-grid-layer[template="vertical"].alignleft p,
+amp-story-grid-layer[template="vertical"].alignleft h1,
+amp-story-grid-layer[template="vertical"].alignleft h2,
+amp-story-grid-layer[template="vertical"].alignleft h3,
+amp-story-grid-layer[template="vertical"].alignleft h4 {
+  text-align: left;
+}
+amp-story-grid-layer[template="vertical"].aligncenter p,
+amp-story-grid-layer[template="vertical"].aligncenter h1,
+amp-story-grid-layer[template="vertical"].aligncenter h2,
+amp-story-grid-layer[template="vertical"].aligncenter h3,
+amp-story-grid-layer[template="vertical"].aligncenter h4 {
+  text-align: center;
+}
+amp-story-grid-layer[template="vertical"].alignright p,
+amp-story-grid-layer[template="vertical"].alignright h1,
+amp-story-grid-layer[template="vertical"].alignright h2,
+amp-story-grid-layer[template="vertical"].alignright h3,
+amp-story-grid-layer[template="vertical"].alignright h4 {
+  text-align: right;
+}
+amp-story-grid-layer[template="vertical"].aligntop {
+  align-content: start;
+  padding-top: calc(1.5758333333333334rem + 1.433666666666667vw);
+}
+@media (min-width: 4000px) {
+  amp-story-grid-layer[template="vertical"].aligntop {
+    padding-top: 5.16rem;
+  }
+}
+amp-story-grid-layer[template="vertical"].alignbottom {
+  align-content: end;
+  padding-bottom: calc(1.4444166666666667rem + 0.855433333333333vw);
+}
+@media (min-width: 4000px) {
+  amp-story-grid-layer[template="vertical"].alignbottom {
+    padding-bottom: 3.583rem;
+  }
+}
+amp-story-grid-layer[template="vertical"].logo-layer {
+  padding: 1.2rem;
+  justify-items: normal;
+  align-content: start;
+}
+amp-story-grid-layer[template="vertical"].logo-layer .logo-wrapper {
+  max-width: 33.178px;
+}
+amp-story-grid-layer[template="vertical"].logo-layer amp-img {
+  opacity: 0.5;
+}
+amp-story-grid-layer[template="vertical"].cover-logo-layer,
+amp-story-grid-layer[template="vertical"].image-logo-layer,
+amp-story-grid-layer[template="vertical"].mobile-image-logo-layer {
+  padding: 1rem;
+  justify-items: normal;
+  align-content: start;
+}
+amp-story-grid-layer[template="vertical"].cover-logo-layer .cover-logo-wrapper,
+amp-story-grid-layer[template="vertical"].image-logo-layer .cover-logo-wrapper,
+amp-story-grid-layer[template="vertical"].mobile-image-logo-layer .cover-logo-wrapper {
+  max-width: 205.427px;
+}
+amp-story-grid-layer[template="vertical"].cover-logo-layer.image-logo-layer,
+amp-story-grid-layer[template="vertical"].image-logo-layer.image-logo-layer,
+amp-story-grid-layer[template="vertical"].mobile-image-logo-layer.image-logo-layer,
+amp-story-grid-layer[template="vertical"].cover-logo-layer.mobile-image-logo-layer,
+amp-story-grid-layer[template="vertical"].image-logo-layer.mobile-image-logo-layer,
+amp-story-grid-layer[template="vertical"].mobile-image-logo-layer.mobile-image-logo-layer {
+  justify-items: center;
+}
+amp-story-grid-layer[template="vertical"].cover-logo-layer.mobile-image-logo-layer,
+amp-story-grid-layer[template="vertical"].image-logo-layer.mobile-image-logo-layer,
+amp-story-grid-layer[template="vertical"].mobile-image-logo-layer.mobile-image-logo-layer {
+  visibility: hidden;
+  padding-top: calc(1.3946666666666667rem + 0.636533333333333vw);
+}
+@media (min-width: 4000px) {
+  amp-story-grid-layer[template="vertical"].cover-logo-layer.mobile-image-logo-layer,
+  amp-story-grid-layer[template="vertical"].image-logo-layer.mobile-image-logo-layer,
+  amp-story-grid-layer[template="vertical"].mobile-image-logo-layer.mobile-image-logo-layer {
+    padding-top: 2.986rem;
+  }
+}
+@media (max-width: 480px) {
+  amp-story-grid-layer[template="vertical"].cover-logo-layer.mobile-image-logo-layer,
+  amp-story-grid-layer[template="vertical"].image-logo-layer.mobile-image-logo-layer,
+  amp-story-grid-layer[template="vertical"].mobile-image-logo-layer.mobile-image-logo-layer {
+    visibility: visible;
+  }
+}
+@media (max-width: 480px) {
+  amp-story-grid-layer[template="vertical"].cover-logo-layer.image-logo-layer,
+  amp-story-grid-layer[template="vertical"].image-logo-layer.image-logo-layer,
+  amp-story-grid-layer[template="vertical"].mobile-image-logo-layer.image-logo-layer {
+    visibility: hidden;
+  }
+}
+amp-story-grid-layer[template="vertical"].credit-layer {
+  padding: 0 1.2rem 0 0.335rem;
+  align-content: end;
+}
+@media (min-width: 480px) {
+  amp-story-grid-layer[template="vertical"].credit-layer {
+    padding: 0 calc(1.3186666666666667rem + 0.302133333333333vw) 0 0.335rem;
+  }
+}
+@media (min-width: 480px) and (min-width: 4000px) {
+  amp-story-grid-layer[template="vertical"].credit-layer {
+    padding: 0 2.074rem 0 0.335rem;
+  }
+}
+amp-story-grid-layer[template="vertical"].credit-layer p.credit {
+  padding: 0;
+  color: #FCFCFC;
+  text-shadow: 1px 1px 0px #000000;
+  font-size: 0.833rem;
+  text-transform: uppercase;
+  font-family: "National Bold", Helvetica, sans-serif;
+  letter-spacing: 0.05em;
+  text-align: right;
+  max-width: inherit;
+}
+@media (max-width: 480px) {
+  amp-story-grid-layer[template="vertical"].credit-layer p.credit {
+    font-size: 10px;
+  }
+}
+amp-story-grid-layer[template="fill"] .dark-screen img,
+amp-story-grid-layer[template="fill"] .dark-screen video {
+  opacity: 0.65;
+}
+amp-story-grid-layer[template="fill"] .blur-screen img,
+amp-story-grid-layer[template="fill"] .blur-screen video {
+  filter: blur(6px);
+}
+amp-story-grid-layer[template="fill"] .lefttop img,
+amp-story-grid-layer[template="fill"] .lefttop video {
+  object-position: 10% 10%;
+}
+amp-story-grid-layer[template="fill"] .centertop img,
+amp-story-grid-layer[template="fill"] .centertop video {
+  object-position: 50% 10%;
+}
+amp-story-grid-layer[template="fill"] .righttop img,
+amp-story-grid-layer[template="fill"] .righttop video {
+  object-position: 90% 10%;
+}
+amp-story-grid-layer[template="fill"] .leftbottom img,
+amp-story-grid-layer[template="fill"] .leftbottom video {
+  object-position: 10% 90%;
+}
+amp-story-grid-layer[template="fill"] .centerbottom img,
+amp-story-grid-layer[template="fill"] .centerbottom video {
+  object-position: 50% 90%;
+}
+amp-story-grid-layer[template="fill"] .rightbottom img,
+amp-story-grid-layer[template="fill"] .rightbottom video {
+  object-position: 90% 90%;
+}
+amp-story-grid-layer[template="fill"] .containphoto img,
+amp-story-grid-layer[template="fill"] .containphoto video {
+  object-fit: contain;
+}
+amp-story-grid-layer[template="fill"] .leftofcenter img,
+amp-story-grid-layer[template="fill"] .leftofcenter video {
+  object-position: 30% 50%;
+}
+amp-story-grid-layer[template="fill"] .rightofcenter img,
+amp-story-grid-layer[template="fill"] .rightofcenter video {
+  object-position: 70% 50%;
+}
+amp-story-grid-layer[template="fill"] .containwithroom img,
+amp-story-grid-layer[template="fill"] .containwithroom video {
+  object-fit: contain;
+  min-height: calc(100% - 150px);
+  max-height: calc(100% - 150px);
+  margin-bottom: 150px;
+}
+@media (min-width: 767px) {
+  amp-story-grid-layer[template="fill"] .containwithroom.split-screen img,
+  amp-story-grid-layer[template="fill"] .containwithroom.reverse-split-screen img,
+  amp-story-grid-layer[template="fill"] .containwithroom.split-screen video,
+  amp-story-grid-layer[template="fill"] .containwithroom.reverse-split-screen video {
+    min-height: 100%;
+    max-height: 100%;
+    margin-bottom: 0;
+  }
+}
+amp-story-grid-layer[template="fill"] .split-screen img,
+amp-story-grid-layer[template="fill"] .reverse-split-screen img,
+amp-story-grid-layer[template="fill"] .split-screen video,
+amp-story-grid-layer[template="fill"] .reverse-split-screen video {
+  min-width: calc(50% - 30px);
+  right: auto;
+}
+@media (max-width: 768px) {
+  amp-story-grid-layer[template="fill"] .split-screen img,
+  amp-story-grid-layer[template="fill"] .reverse-split-screen img,
+  amp-story-grid-layer[template="fill"] .split-screen video,
+  amp-story-grid-layer[template="fill"] .reverse-split-screen video {
+    min-width: 100%;
+  }
+}
+amp-story-grid-layer[template="fill"] .split-screen.reverse-split-screen img,
+amp-story-grid-layer[template="fill"] .reverse-split-screen.reverse-split-screen img,
+amp-story-grid-layer[template="fill"] .split-screen.reverse-split-screen video,
+amp-story-grid-layer[template="fill"] .reverse-split-screen.reverse-split-screen video {
+  left: auto;
+  right: 0;
+}
+/* Horizontal rule set */
+amp-story-grid-layer[template="horizontal"] {
+  /* Special handling for first slide */
+}
+amp-story-grid-layer[template="horizontal"].ui.first-slide .tap-container.right:before {
+  content: "Read";
+}
+@media (max-width: 768px) {
+  amp-story-grid-layer[template="horizontal"].ui.first-slide .tap-container.right:before {
+    content: "Tap";
+  }
+}
+@media (max-width: 480px) {
+  amp-story-grid-layer[template="horizontal"].ui.first-slide .tap-container.right:before {
+    content: "Tap";
+  }
+}
+amp-story-grid-layer[template="horizontal"].ui:not(.first-slide) .tap-container.left:after {
+  content: '\f053';
+}
+amp-story-grid-layer[template="horizontal"].ui {
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.335em;
+}
+amp-story-grid-layer[template="horizontal"].ui .tap-container {
+  color: #FCFCFC;
+}
+amp-story-grid-layer[template="horizontal"].ui .tap-container.right:before {
+  /* Handle the help text on first slide */
+  font-size: 1rem;
+  font-family: "National Book", Helvetica, sans-serif;
+  padding-right: 0.335rem;
+  transition: 0.25s opacity ease-in-out 1s;
+}
+amp-story-grid-layer[template="horizontal"].ui .tap-container.right:after {
+  content: '\f054';
+}
+amp-story-grid-layer[template="horizontal"].ui .tap-container:after {
+  font-family: "Font Awesome 5 Free";
+  font-size: 1.2rem;
+  display: inline-block;
+  vertical-align: middle;
+}
+@media (min-width: 480px) {
+  amp-story-grid-layer[template="horizontal"].ui .tap-container:after {
+    font-size: calc(1.3531666666666666rem + 0.453933333333333vw);
+  }
+}
+@media (min-width: 480px) and (min-width: 4000px) {
+  amp-story-grid-layer[template="horizontal"].ui .tap-container:after {
+    font-size: 2.488rem;
+  }
+}
+amp-story amp-story-page.invert {
+  background-color: #FCFCFC;
+  color: #222222;
+}
+amp-story amp-story-page.invert p {
+  color: #222222;
+}
+amp-story amp-story-page.invert p.lower-third {
+  text-shadow: none;
+}
+amp-story amp-story-page.invert amp-story-grid-layer[template="vertical"].credit-layer p.credit {
+  color: #222222;
+  text-shadow: none;
+  font-weight: normal;
+}
+
+    </style><title>Camp Fire Visual Essay: A ballet rises from the ashes in fire scarred Paradise</title><link href=https://projects.sfchronicle.com/2019/visuals/camp-fire-ballet/ rel=canonical><script data-schema=NewsArticle type=application/ld+json>
+		{
+		  "@context": "http://schema.org",
+		  "@type": "NewsArticle",
+		  "mainEntityOfPage": {
+		    "@type": "WebPage",
+		    "@id": "https://projects.sfchronicle.com/2019/visuals/camp-fire-ballet/"
+		  },
+		  "headline": "Camp Fire Visual Essay: A ballet rises from the ashes in fire scarred Paradise",
+		  "image": {
+		    "@type": "ImageObject",
+		    "url": "https://s.hdnux.com/photos/0/0/0/16846183/0/premium_gallery_portrait.jpg"
+		  },
+		  "dateCreated": "2019-02-01T04:00:00.000Z",
+      "datePublished": "2019-02-01T04:00:00.000Z",
+      "dateModified": "2021-07-14T21:33:40.618Z",
+      
+		  "author":[
+          {
+                    "@type": "Person",
+                    "name": "Lizzie Johnson"
+          },
+          {
+                    "@type": "Person",
+                    "name": " Gabrielle Lurie"
+          }
+],
+		  "publisher": {
+		    "@type": "Organization",
+		    "name": "The San Francisco Chronicle",
+		    "logo": {
+		      "@type": "ImageObject",
+		      "url": "/apple-touch-icon.png",
+          "width": "180",
+          "height": "180"
+		    }
+		  },
+		  "description": "The annual production of  “The Nutcracker” at the Paradise Performing Arts Center was one of many things destroyed by the Camp Fire. They had already been practicing for months when the blaze hit Butte County in November."
+		}
+		</script><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript></head><body>
+
+
+
+
+<amp-story class=i-amphtml-layout-container i-amphtml-layout=container poster-landscape-src=https://s.hdnux.com/photos/0/0/0/16846183/0/1200x0.jpg poster-portrait-src=https://s.hdnux.com/photos/0/0/0/16846183/0/premium_gallery_portrait.jpg publisher="The San Francisco Chronicle" publisher-logo-src=https://files.sfchronicle.com/static-assets/logos/sf-square.png standalone supports-landscape title="Camp Fire Visual Essay: A ballet rises from the ashes in fire scarred Paradise"><amp-analytics id=google-search-analytics><script type=application/json>{"transport": {"beacon": true, "xhrpost": false,"image": {"suppressWarnings": true}},"requestOrigin": "${documentReferrer}","requests": {"base":"/gen_204?&atyp=i&aoh=${fragmentParam(aoh)}&ct=va&url=${sourceUrl}&zx=${timestamp}","pageview":"${base}&amp_prgs=${storyProgress}&amp_pgcnt=${storyPageCount}&amp_pvidx=${storyPageIndex}&amp_pvid=${storyPageId}","storyAds": "${base}&amp_adix=${adIndex}&amp_adid=${adUniqueId}&amp_eids=${experimentBranches}","click":"${base}&amp_cidx=${storyPageIndex}&amp_cid=${storyPageId}","bookendClick":"${base}&amp_bhref=${storyBookendTargetHref}&amp_bct=${storyBookendComponentType}&amp_bcp=${storyBookendComponentPosition}"},"triggers": {"pageview": {"on": "story-page-visible","request": "pageview"},"bookendEnter": {"on": "story-bookend-enter","request": "base","extraUrlParams": {"amp_bookend": "enter"}},"bookendExit": {"on": "story-bookend-exit","request": "base","extraUrlParams": {"amp_bookend": "exit"}},"audioMuted": {"on": "story-audio-muted","request": "base","extraUrlParams": {"amp_audio": "muted"}},"audioUnmuted": {"on": "story-audio-unmuted","request": "base","extraUrlParams": {"amp_audio": "unmuted"}},"trackBookendClicks": {"on": "story-bookend-click","request": "bookendClick"},"trackCtaClicks": {"on": "click","selector": "amp-story-cta-layer a","request": "click","vars": {"eventId": "ctaClicked"}},"timer": {"on": "timer","timerSpec": {"interval": 15,"maxTimerLength": 239,"startSpec": {"on": "visible"},"stopSpec": {"on": "hidden"}},"request": "base","extraUrlParams": {"amp_timer": "1"}},"storyAdRequest": {"on": "story-ad-request","request": "storyAds","extraUrlParams": {"amp_adev": "request","amp_adrt": "${requestTime}"}},"storyAdInsert": {"on": "story-ad-insert","request": "storyAds","extraUrlParams": {"amp_adev": "insert","amp_adrt": "${requestTime}","amp_adlt": "${loadTime}","amp_adit": "${insertTime}","amp_adca": "${ctaType}","amp_adpn": "${position}"}},"storyAdView": {"on": "story-ad-view","request": "storyAds","extraUrlParams": {"amp_adev": "view","amp_adrt": "${requestTime}","amp_adlt": "${loadTime}","amp_adit": "${insertTime}","amp_advt": "${viewTime}","amp_adca": "${ctaType}","amp_adpn": "${position}"}},"storyAdClick": {"on": "story-ad-click","request": "storyAds","extraUrlParams": {"amp_adev": "click","amp_adrt": "${requestTime}","amp_adlt": "${loadTime}","amp_adit": "${insertTime}","amp_advt": "${viewTime}","amp_adct": "${clickTime}","amp_adca": "${ctaType}","amp_adpn": "${position}"}},"storyAdSwipe": {"on": "story-ad-swipe","request": "storyAds","extraUrlParams": {"amp_adev": "swipe","amp_adrt": "${requestTime}","amp_adlt": "${loadTime}","amp_adit": "${insertTime}","amp_advt": "${viewTime}","amp_adct": "${clickTime}","amp_adst": "${swipeTime}","amp_adpn": "${position}"}},"storyAdExit": {"on": "story-ad-exit","request": "storyAds","extraUrlParams": {"amp_adev": "exit","amp_adrt": "${requestTime}","amp_adlt": "${loadTime}","amp_adit": "${insertTime}","amp_advt": "${viewTime}","amp_adct": "${clickTime}","amp_adxt": "${exitTime}","amp_adca": "${ctaType}","amp_adpn": "${position}"}},"storyAdDiscard": {"on": "story-ad-discard","request": "storyAds","extraUrlParams": {"amp_adev": "discard","amp_adrt": "${requestTime}","amp_adlt": "${loadTime}","amp_adca": "${ctaType}"}}}}</script></amp-analytics>
+
+  <amp-geo class=i-amphtml-layout-nodisplay hidden=hidden i-amphtml-layout=nodisplay layout=nodisplay>
+    <script type=application/json>
+      {
+        "ISOCountryGroups": {
+          "eea": ["preset-eea"]
+        }
+      }
+    </script>
+  </amp-geo>
+
+  <amp-consent class=i-amphtml-layout-nodisplay hidden=hidden i-amphtml-layout=nodisplay id=eeaGroup layout=nodisplay>
+    <script type=application/json>
+      {
+        "consents": {
+          "eeaGroup": {
+            "promptIfUnknownForGeoGroup": "eea",
+            "promptUI": "consentUI"
+          }
+        }
+      }
+    </script>
+
+    <amp-story-consent class=i-amphtml-layout-nodisplay hidden=hidden i-amphtml-layout=nodisplay id=consentUI layout=nodisplay>
+      <script type=application/json>
+        {
+          "title": "Your Choices Regarding Cookies",
+          "message": "We and third parties may deploy cookies and similar technologies when you use our site. Please review the services below and accept to access this page.",
+          "vendors": ["• Editorial, Functionality and Social Media Cookies", "Twitter", "Facebook", "• Performance, Content Recommendation and Personalization Cookies", "Taboola", "Nativo", "Blueconic", "Realm", "• Analytics", "Parsely", "Google Analytics", "Chartbeat"],
+          "externalLink": {"title": "Privacy Notice", "href": "https://projects.sfchronicle.com/privacy_policy/"}
+        }
+      </script>
+    </amp-story-consent>
+  </amp-consent>
+
+  
+
+
+<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-block-on-consent i-amphtml-layout=fixed id=gatracker style=width:1px;height:1px; type=googleanalytics>
+    <script type=application/json>
+    {
+        "vars": {
+            "account": "UA-1616916-26"
+        },
+        "extraUrlParams" : {
+            "cd1": "news",
+            "cd2": "news:special projects",
+            "cd3": "news:special projects",
+            "cd4": "news:special projects",
+            "cd6": "Camp Fire Visual Essay: A ballet rises from the ashes in fire scarred Paradise",
+            "cd7": "",
+            "cd8": "Lizzie Johnson, Gabrielle Lurie",
+            "cd9": "",
+            "cd11": "2019-2-1",
+            "cd15": "amp",
+            "cd16": "premiumsfgate",
+            "cd20": "TIMESTAMP|${pageViewId}",
+            "cd36": "free",
+            "cd50": "${availableScreenWidth} x ${availableScreenHeight}"
+        },
+        "triggers": {
+            "gaLinkClick" : {
+                "on": "click",
+                "selector": ".newsletter-link",
+                "request": "event",
+                "vars": {
+                    "eventCategory": "Devhub AMP Story",
+                    "eventAction": "newsletter_click",
+                    "eventLabel": "camp-fire-ballet|newsletter"
+                },
+                "extraUrlParams" : {
+                    "cd5": "Google AMP",
+                    "cm4": 1
+                }
+            },
+            "storyPageVisible": {
+                "on": "story-page-visible",
+                "request": "pageview",
+                "vars": {
+                    "title": "Camp Fire Visual Essay: A ballet rises from the ashes in fire scarred Paradise",
+                    "documentLocation": "${ampdocUrl}"
+                },
+                "extraUrlParams" : {
+                    "cd5": "Google AMP slideshow",
+                    "cd32": "Google AMP slideshow photo:${storyPageIndex}",
+                    "cd33": "${storyPageCount}",
+                    "cd56": "Camp Fire Visual Essay: A ballet rises from the ashes in fire scarred Paradise||gallery",
+                    "cm6": 1,
+                    "cm8": 1
+                }
+            }
+        }
+    }                
+    </script>
+</amp-analytics>
+
+<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-block-on-consent i-amphtml-layout=fixed style=width:1px;height:1px; type=chartbeat>
+    <script type=application/json>
+    {
+        "vars": {
+            "uid": "53046",
+            "authors": "The San Francisco Chronicle",
+            "sections": "news",
+            "domain": "projects.sfchronicle.com"
+        }
+    }
+    </script>
+</amp-analytics>
+
+<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-block-on-consent i-amphtml-layout=fixed style=width:1px;height:1px; type=comscore>
+    <script type=application/json>
+    {
+        "vars": {
+            "c2": "6036097"
+        },
+        "extraUrlParams": {
+            "comscorekw": "amp"
+        }
+    }
+    </script>
+</amp-analytics>
+
+
+
+
+  
+  <amp-story-auto-ads class=i-amphtml-layout-container i-amphtml-layout=container>
+    <script type=application/json>
+       {
+          "ad-attributes": {
+            "type": "doubleclick",
+            "data-slot": "/36117602/hnp-sfchronicle.com/Amp-Stories"
+          }
+        }
+    </script>
+  </amp-story-auto-ads>
+  
+
+  
+
+    <amp-story-page class="centerbottom  i-amphtml-layout-container" i-amphtml-layout=container id=cover>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-video autoplay cache=google class="centerbottom   i-amphtml-layout-responsive i-amphtml-layout-size-defined" crossorigin height=1000 i-amphtml-layout=responsive id=video_on_cover layout=responsive poster=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/assets/black-screen.png width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>
+
+            
+              <source src=https://files.sfchronicle.com/amp-video/Ballet/open2.m3u8 type=application/vnd.apple.mpegurl>
+            
+            <source amp-orig-src=https://files.sfchronicle.com/amp-video/Ballet/open2.mp4 src=https://files-sfchronicle-com.cdn.ampproject.org/bv/s/files.sfchronicle.com/amp-video/Ballet/open2.mp4 type=video/mp4>
+            
+            
+          </amp-video>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+        
+        <amp-story-grid-layer class="text-slide alignbottom normal aligncenter  i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p><span class=kicker>A Ballet Rises from the Camp Fire&#39;s Ashes</span></p><h1>The Show Must Go On</h1><p class="story-meta story-dateline">Updated: <time itemprop=dateModified>4 a.m. Feb. 1, 2019</time></p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="cover-logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=cover-logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=100 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfc_logo_white.png width=740><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:13.5135%;></i-amphtml-sizer>
+            <img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 21 2&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAACCAYAAAC3xJe1AAAAn0lEQVQImWOIbUyU618xKQVEJ7Wmq1XPqPOYuHJKWmp7pmZSa5pqXFOSfEZnji6QVgDxQbhudpNP1fRat+S2DPXEllQVkDyIXTql0iGoMlyAIaYhQbZtYVdEw9wW//ZFXZEV02pcodildlajd/P89pC62Y0+ILnK6bWuBf3FFo1zWwM7l/TGFE8qtwVa4Nswp8W/ZX57aNvCzvDw2hhxAClpSCCao8DoAAAAAElFTkSuQmCC&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="rightbottom  i-amphtml-layout-container" i-amphtml-layout=container id=page1>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="rightbottom   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850728/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850728/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850728/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850728/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          <img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 7 7&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAHAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAZEAACAwEAAAAAAAAAAAAAAAAAARESITH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8Agm7rYVVChd0AFBst/9k=&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+        
+        <amp-story-grid-layer class="text-slide alignmiddle normal alignleft  i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p>Grace Rosendin has danced for Northern California Ballet since she was 5 years old. As December neared, she looked forward to performing in the annual production of  “The Nutcracker” at the Paradise Performing Arts Center. They had already been practicing for months when the Camp Fire hit.</p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            <img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 7 8&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAQAAACfDS2NAAAAe0lEQVQI12NYwzCd8bBuCOu0urVTduky2LIvWhARNmtGQ/2kiZMFGTbVzJiemnL6tLExA0MTA8PHK5kZKckQrgUDw68nNdUpyadOgrgKDAynt507m5WREAfmMjKstP7xY+9uC3NvLy/PBQUMxxiCzE+u//n4/d1FfbE8AC19MQ4Gg/VfAAAAAElFTkSuQmCC&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page auto-advance-after=video_on_page2 class="  i-amphtml-layout-container" i-amphtml-layout=container id=page2>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-video autoplay cache=google class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" crossorigin height=1000 i-amphtml-layout=responsive id=video_on_page2 layout=responsive poster=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/assets/black-screen.png width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>
+
+            
+              <source src=https://files.sfchronicle.com/amp-video/Ballet/drone3.m3u8 type=application/vnd.apple.mpegurl>
+            
+            <source amp-orig-src=https://files.sfchronicle.com/amp-video/Ballet/drone3.mp4 src=https://files-sfchronicle-com.cdn.ampproject.org/bv/s/files.sfchronicle.com/amp-video/Ballet/drone3.mp4 type=video/mp4>
+            
+            
+          </amp-video>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page3>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16853817/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16853817/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16853817/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16853817/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        <amp-img class="dark-screen i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/assets/black-screen.png width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer></amp-img>
+      </amp-story-grid-layer>
+      
+
+      
+      
+
+      
+        
+        <amp-story-grid-layer class="text-slide alignmiddle  alignleft  i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p>&#34;The Nutcracker&#34; was off. The dancers had no tights or leotards. The studio had no sets or costumes. They couldn’t afford to replace what the Camp Fire incinerated, and the show became one more loss in a long string of unfathomable losses.</p>
+        </amp-story-grid-layer>
+      
+
+      
+        
+        <amp-story-grid-layer class="text-slide alignbottom alignleft lowerthirdbox i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=lower-third>Northern California Ballet School </p>
+        </amp-story-grid-layer>
+      
+
+      
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page auto-advance-after=video_on_page4 class="  i-amphtml-layout-container" i-amphtml-layout=container id=page4>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-video autoplay cache=google class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" crossorigin height=1000 i-amphtml-layout=responsive id=video_on_page4 layout=responsive poster=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/assets/black-screen.png width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>
+
+            
+              <source src=https://files.sfchronicle.com/amp-video/Ballet/house3.m3u8 type=application/vnd.apple.mpegurl>
+            
+            <source amp-orig-src=https://files.sfchronicle.com/amp-video/Ballet/house3.mp4 src=https://files-sfchronicle-com.cdn.ampproject.org/bv/s/files.sfchronicle.com/amp-video/Ballet/house3.mp4 type=video/mp4>
+            
+            
+          </amp-video>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+        
+        <amp-story-grid-layer class="text-slide alignbottom alignleft lowerthirdbox i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=lower-third>Grace Rosendin</p>
+        </amp-story-grid-layer>
+      
+
+      
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="centertop  i-amphtml-layout-container" i-amphtml-layout=container id=page5>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="centertop   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846176/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846176/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846176/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846176/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        <amp-img class="dark-screen i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/assets/black-screen.png width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer></amp-img>
+      </amp-story-grid-layer>
+      
+
+      
+      
+
+      
+        
+        <amp-story-grid-layer class="text-slide alignmiddle  alignleft  i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p>Soon, however, the ballet was flooded with goodwill offers: Costumes, sets, shoes and tights came from around the world. They pushed the show back to late January, but at least it was still happening.</p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page6>
+
+      
+      
+
+
+      
+
+      
+      
+
+      
+        
+        <amp-story-grid-layer class="text-slide alignmiddle  alignleft  i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <h2 id=subscriber-headline>Frame by frame</h2><h4 id=subscriber-blurb>Experience the Bay Area through exceptional photojournalism.</h4>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+        <amp-story-cta-layer class=i-amphtml-layout-container i-amphtml-layout=container>
+          <div animate-in=fly-in-bottom animate-in-delay=0.3s class=newsletter-flex><a href=https://www.sfchronicle.com/subproject id=button-link target=_top>
+            <button id=subscribe-button type=button>Subscribe</button>
+          </a>
+          </div>
+        </amp-story-cta-layer>
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="centertop  i-amphtml-layout-container" i-amphtml-layout=container id=page7>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="centertop   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846176/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846176/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846176/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846176/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="bullseye  i-amphtml-layout-container" i-amphtml-layout=container id=page8>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="bullseye   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850289/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850289/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850289/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850289/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page9>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850332/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850332/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850332/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850332/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page10>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846183/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846183/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846183/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846183/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page auto-advance-after=video_on_page11 class="  i-amphtml-layout-container" i-amphtml-layout=container id=page11>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-video autoplay cache=google class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" crossorigin height=1000 i-amphtml-layout=responsive id=video_on_page11 layout=responsive poster=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/assets/black-screen.png width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>
+
+            
+              <source src=https://files.sfchronicle.com/amp-video/Ballet/feet.m3u8 type=application/vnd.apple.mpegurl>
+            
+            <source amp-orig-src=https://files.sfchronicle.com/amp-video/Ballet/feet.mp4 src=https://files-sfchronicle-com.cdn.ampproject.org/bv/s/files.sfchronicle.com/amp-video/Ballet/feet.mp4 type=video/mp4>
+            
+            
+          </amp-video>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page12>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850390/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850390/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850390/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850390/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="centertop  i-amphtml-layout-container" i-amphtml-layout=container id=page13>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="centertop   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846207/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846207/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846207/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846207/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page14>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850518/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850518/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850518/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850518/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page15>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849232/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849232/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849232/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849232/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="bullseye  i-amphtml-layout-container" i-amphtml-layout=container id=page16>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="bullseye   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846199/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846199/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846199/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846199/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page17>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846205/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846205/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846205/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846205/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page18>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850566/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850566/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850566/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850566/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page19>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849244/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849244/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849244/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849244/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        <amp-img class="dark-screen i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/assets/black-screen.png width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer></amp-img>
+      </amp-story-grid-layer>
+      
+
+      
+      
+
+      
+        
+        <amp-story-grid-layer class="text-slide alignmiddle  alignleft  i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p>“The Nutcracker” opened on Fri., Jan. 18 at the State Theater in Oroville. The audience was packed, filled with fellow fire victims supporting cast members who had also lost so much. Of the 58 performers, all but 12 lost their homes in the Camp Fire.</p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page20>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849244/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849244/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849244/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849244/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page21>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850730/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850730/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850730/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850730/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page auto-advance-after=video_on_page22 class="  i-amphtml-layout-container" i-amphtml-layout=container id=page22>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-video autoplay cache=google class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" crossorigin height=1000 i-amphtml-layout=responsive id=video_on_page22 layout=responsive poster=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/assets/black-screen.png width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>
+
+            
+              <source src=https://files.sfchronicle.com/amp-video/Ballet/escape.m3u8 type=application/vnd.apple.mpegurl>
+            
+            <source amp-orig-src=https://files.sfchronicle.com/amp-video/Ballet/escape.mp4 src=https://files-sfchronicle-com.cdn.ampproject.org/bv/s/files.sfchronicle.com/amp-video/Ballet/escape.mp4 type=video/mp4>
+            
+            
+          </amp-video>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="bullseye  i-amphtml-layout-container" i-amphtml-layout=container id=page23>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="bullseye   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846223/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846223/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846223/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846223/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="leftbottom  i-amphtml-layout-container" i-amphtml-layout=container id=page24>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="leftbottom   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16856631/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16856631/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16856631/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16856631/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page25>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846239/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846239/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846239/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846239/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page auto-advance-after=video_on_page26 class="leftbottom  i-amphtml-layout-container" i-amphtml-layout=container id=page26>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-video autoplay cache=google class="leftbottom   i-amphtml-layout-responsive i-amphtml-layout-size-defined" crossorigin height=1000 i-amphtml-layout=responsive id=video_on_page26 layout=responsive poster=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/assets/black-screen.png width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>
+
+            
+              <source src=https://files.sfchronicle.com/amp-video/Ballet/perform.m3u8 type=application/vnd.apple.mpegurl>
+            
+            <source amp-orig-src=https://files.sfchronicle.com/amp-video/Ballet/perform.mp4 src=https://files-sfchronicle-com.cdn.ampproject.org/bv/s/files.sfchronicle.com/amp-video/Ballet/perform.mp4 type=video/mp4>
+            
+            
+          </amp-video>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page27>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850984/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850984/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850984/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16850984/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page28>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849758/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849758/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849758/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849758/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="centertop  i-amphtml-layout-container" i-amphtml-layout=container id=page29>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="centertop   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849248/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849248/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849248/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16849248/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page30>
+
+      
+      
+      <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=fill>
+        
+          <amp-img class="   i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1000 i-amphtml-layout=responsive layout=responsive src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846177/0/1200x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846177/0/2880x0.jpg 2560w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846177/0/1600x0.jpg 1280w, https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16846177/0/1200x0.jpg 640w" width=1000><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>  
+          </amp-img>
+        
+      </amp-story-grid-layer>
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="credit-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <p class=credit>
+            Gabrielle Lurie/The Chronicle
+          </p>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+      
+    </amp-story-page>
+  
+
+    <amp-story-page class="  i-amphtml-layout-container" i-amphtml-layout=container id=page31>
+
+      
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+      
+
+      
+
+      
+      
+        <amp-story-grid-layer class="logo-layer i-amphtml-layout-container" i-amphtml-layout=container template=vertical>
+          <div class=logo-wrapper>
+            <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=59 i-amphtml-layout=responsive layout=responsive src=https://projects-sfchronicle-com.cdn.ampproject.org/i/s/projects.sfchronicle.com/shared/logos/sfletter_c_white_small.png width=50><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:118.0000%;></i-amphtml-sizer>
+            </amp-img>
+          </div>
+        </amp-story-grid-layer>
+      
+
+      
+
+      
+
+      
+        <amp-story-grid-layer class=i-amphtml-layout-container i-amphtml-layout=container template=vertical>
+          <div class=end-block>
+            <div class=credits-block>
+              
+                <p>Produced by Guy Wathen</p>
+              
+                <p>Photo Editing by Nicole Fruge</p>
+              
+                <p>Reporting by Lizzie Johnson</p>
+              
+                <p>Photography and Video by Gabrielle Lurie</p>
+              
+                <p>Drone Footage by Santiago Mejia</p>
+              
+                <p>Development by Evan Wagstaff</p>
+              
+                <p>Additional Photos submitted by Grace Rosendin, Sarah Witten, and Jessica Anzelone</p>
+              
+            </div>
+            <a href=https://projects.sfchronicle.com/ target=_top>
+              <div class=related-item>
+                <div class=img-box>
+                  <amp-img class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=50 i-amphtml-layout=fixed src=https://files-sfchronicle-com.cdn.ampproject.org/i/s/files.sfchronicle.com/static-assets/logos/sf-square-white.png srcset="https://files-sfchronicle-com.cdn.ampproject.org/ii/w56/s/files.sfchronicle.com/static-assets/logos/sf-square-white.png 56w, https://files-sfchronicle-com.cdn.ampproject.org/ii/w100/s/files.sfchronicle.com/static-assets/logos/sf-square-white.png 100w, https://files-sfchronicle-com.cdn.ampproject.org/ii/w150/s/files.sfchronicle.com/static-assets/logos/sf-square-white.png 150w" style=width:50px;height:50px; width=50>
+                </amp-img></div>
+                <span>Back to homepage</span>
+              </div>
+            </a>
+            <a href=https://www.sfchronicle.com/subproject target=_top>
+              <div class=related-item>
+                <div class=subscribe-button>
+                  <span>Subscribe</span>
+                </div>
+              </div>
+            </a>
+            
+              <a href=https://projects.sfchronicle.com/2018/visuals/camp-fire-devastation/ target=_top>
+                <div class="related-item related">
+                  <div class=img-box>
+                    <amp-img class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=56 i-amphtml-layout=fixed src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/0/0/0/16497855/0/960x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/ii/w100/s/s.hdnux.com/photos/0/0/0/16497855/0/960x0.jpg 100w, https://s-hdnux-com.cdn.ampproject.org/ii/w220/s/s.hdnux.com/photos/0/0/0/16497855/0/960x0.jpg 220w, https://s-hdnux-com.cdn.ampproject.org/ii/w330/s/s.hdnux.com/photos/0/0/0/16497855/0/960x0.jpg 330w" style=width:100px;height:56px; width=100>
+                  </amp-img></div>
+                  <span>The unprecedented devastation of the Camp Fire</span>
+                </div>
+              </a>
+            
+              <a href=https://www.sfchronicle.com/california-wildfires/article/A-fire-a-newborn-baby-and-a-pact-Tales-of-13402034.php target=_top>
+                <div class="related-item related">
+                  <div class=img-box>
+                    <amp-img class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=56 i-amphtml-layout=fixed src=https://s-hdnux-com.cdn.ampproject.org/i/s/s.hdnux.com/photos/77/00/13/16515828/5/960x0.jpg srcset="https://s-hdnux-com.cdn.ampproject.org/ii/w100/s/s.hdnux.com/photos/77/00/13/16515828/5/960x0.jpg 100w, https://s-hdnux-com.cdn.ampproject.org/ii/w220/s/s.hdnux.com/photos/77/00/13/16515828/5/960x0.jpg 220w, https://s-hdnux-com.cdn.ampproject.org/ii/w330/s/s.hdnux.com/photos/77/00/13/16515828/5/960x0.jpg 330w" style=width:100px;height:56px; width=100>
+                  </amp-img></div>
+                  <span>Survival in Paradise</span>
+                </div>
+              </a>
+            
+          </div>
+        </amp-story-grid-layer>
+      
+      
+    </amp-story-page>
+  
+</amp-story>
+</body></html>
